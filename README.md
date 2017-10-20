@@ -1,4 +1,4 @@
-## Project: Date Counter App
+## Project: Date Counter App <br>
 ## Author: Tej Poudel
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
@@ -370,6 +370,7 @@ This project setup supports ES6 modules thanks to Babel.<br>
 While you can still use `require()` and `module.exports`, we encourage you to use [`import` and `export`](http://exploringjs.com/es6/ch_modules.html) instead.
 
 For example:
+
 
 ### `Button.js`
 
