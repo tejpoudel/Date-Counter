@@ -1,5 +1,5 @@
-##Project: Date Counter App
-##Author: Tej Poudel
+## Project: Date Counter App
+## Author: Tej Poudel
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
